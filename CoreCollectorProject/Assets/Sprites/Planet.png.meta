@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 93bc2b7d5437a11479ae512695dd2a29
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Planet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 249
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 249
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 249
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 250
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 250
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 250
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 250
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 250
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 250
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 174
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 174
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 174
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 174
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 174
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 174
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Planet_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

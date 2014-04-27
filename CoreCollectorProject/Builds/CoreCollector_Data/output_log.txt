@@ -1,0 +1,23 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1172]
+    Renderer: ATI Radeon HD 5700 Series
+    Vendor:   ATI
+    VRAM:     1012 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Programs\Unity\Projects\BeneathSurface\Builds\CoreCollector_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Programs\Unity\Projects\BeneathSurface\Builds\CoreCollector_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Programs\Unity\Projects\BeneathSurface\Builds\CoreCollector_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Programs\Unity\Projects\BeneathSurface\Builds\CoreCollector_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.167 seconds
+desktop: 1280x800 60Hz; virtual: 2640x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.436786 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 630.
+Total: 0.787543 ms (FindLiveObjects: 0.020224 ms CreateObjectMapping: 0.009659 ms MarkObjects: 0.110177 ms  DeleteObjects: 0.191075 ms)
+
